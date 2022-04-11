@@ -1,0 +1,17 @@
+*{
+    margin: 0;
+    padding: 0
+}
+.bar{
+    height: 90px;
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+    background-color: rgba(3, 8, 26, 0.897);
+}
+.logo{
+    margin-left: 9%;
+}
+.menu{
+    margin-right: 5%;
+}
